@@ -1,7 +1,7 @@
 environment:
 Python 3.7
-PyTorch == 1.4.0 (tested)
-NVIDIA GPU
+PyTorch == 1.1.2 (tested)
+NVIDIA GPU (RTX3090 tested)
 
 data:
 download activity v 1.3 dataset from http://activity-net.org/.
